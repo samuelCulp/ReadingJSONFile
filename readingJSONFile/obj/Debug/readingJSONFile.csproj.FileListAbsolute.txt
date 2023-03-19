@@ -1,0 +1,11 @@
+F:\C# crap\readingJSONFile\obj\Debug\readingJSONFile.csproj.AssemblyReference.cache
+F:\C# crap\readingJSONFile\obj\Debug\readingJSONFile.csproj.SuggestedBindingRedirects.cache
+F:\C# crap\readingJSONFile\obj\Debug\readingJSONFile.Form1.resources
+F:\C# crap\readingJSONFile\obj\Debug\readingJSONFile.Properties.Resources.resources
+F:\C# crap\readingJSONFile\obj\Debug\readingJSONFile.csproj.GenerateResource.cache
+F:\C# crap\readingJSONFile\obj\Debug\readingJSONFile.csproj.CoreCompileInputs.cache
+F:\C# crap\readingJSONFile\bin\Debug\readingJSONFile.exe.config
+F:\C# crap\readingJSONFile\bin\Debug\readingJSONFile.exe
+F:\C# crap\readingJSONFile\bin\Debug\readingJSONFile.pdb
+F:\C# crap\readingJSONFile\obj\Debug\readingJSONFile.exe
+F:\C# crap\readingJSONFile\obj\Debug\readingJSONFile.pdb
